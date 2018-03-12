@@ -17,6 +17,10 @@ video {
     overflow: hidden;
     z-index: -1;
 }
+h1{
+  font-family:'Montserrat', sans-serif;
+  color: #dfc12a;
+}
 
 
 header {
@@ -60,6 +64,7 @@ a{
     display: inline;
     padding: 0px 20px 0px 20px;
 }
+
 
  li>a {
    color: #dfc12a;
