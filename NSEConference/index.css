@@ -42,6 +42,7 @@ a{
     border: 7px solid black;
     border-radius: 20px;
     }
+
   ul{
     padding: 10px;
     background: white;
@@ -49,4 +50,6 @@ a{
   li{
     display: inline;
     padding: 0px 20px 0px 20px;
-  }
+}
+
+ li>a {color: #dfc12a;}
