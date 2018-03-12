@@ -29,7 +29,7 @@ header {
 a{
   color: white;
   }
-  h1{
+  h2{
     position: absolute;
     text-align: center;
     font-size: 5em;
@@ -42,6 +42,7 @@ a{
     border: 7px solid black;
     border-radius: 20px;
     }
+
   ul{
     padding: 10px;
     background: white;
@@ -49,4 +50,23 @@ a{
   li{
     display: inline;
     padding: 0px 20px 0px 20px;
-  }
+}
+
+ li>a {
+   color: #dfc12a;
+   font-family: Verdana;
+   font-size: 26px;
+   font-weight: bold;
+    }
+
+p {
+   background-color: beige;
+   margin-top:70px;
+   margin-left: 50px;
+   margin-right: 50px;
+   text-align: justify;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 24px;
+   padding: 50px;
+  border: 25px color:beige;
+ }
