@@ -52,4 +52,13 @@ a{
     padding: 0px 20px 0px 20px;
 }
 
- li>a {color: #dfc12a;}
+ li>a {
+   color: #dfc12a;
+   font-family: Verdana;
+   font-size: 26px;
+   font-weight: bold;
+    }
+
+ p {
+   font-family: 'Montserrat', sans-serif;
+  }
