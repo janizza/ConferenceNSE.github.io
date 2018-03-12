@@ -32,7 +32,7 @@ a{
   h2{
     position: absolute;
     text-align: center;
-    font-size: 5em;
+    font-size: 70px;
     z-index: 9999;
     color: white;
     top: 50%;
@@ -42,6 +42,15 @@ a{
     border: 7px solid black;
     border-radius: 20px;
     }
+    h3{
+      position: sticky;
+    text-align: center;
+    font-size: 40px;
+    z-index: auto;
+    color: white;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%)}
 
   ul{
     padding: 10px;
