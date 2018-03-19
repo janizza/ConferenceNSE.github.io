@@ -47,14 +47,15 @@ a{
     border-radius: 0px;
     }
     h3{
-      position: sticky;
+      position: absolute;
     text-align: center;
     font-size: 40px;
     z-index: auto;
     color: white;
     top: 70%;
     left: 50%;
-    transform: translate(-50%,-50%)}
+    transform: translate(-50%,-50%)
+  }
     h4{
       font-family:'Montserrat', sans-serif;
       color: black;
