@@ -43,8 +43,8 @@ a{
     left: 50%;
     transform: translate(-50%,-50%)}
     img{margin: 40px 0px 0px 0px;
-    border: 7px solid black;
-    border-radius: 20px;
+    border: 0px solid black;
+    border-radius: 0px;
     }
     h3{
       position: sticky;
